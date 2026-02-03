@@ -85,8 +85,7 @@
 
 **AI**
 
-- [(번역) AI 에이전트를 위한 좋은 스펙 작성법](https://ykss.netlify.app/translation/2026/how-to-write-a-good-spec-for-ai-agents)
-- [CLAUDE.md 완벽 가이드](https://velog.io/@surim014/claude-md-guide)
+- [AI Won't Replace Front-End Developers, It'll Replace the Boring Parts](https://dzone.com/articles/frontend-ai-automation-replacing-boring-tasks)
 
 <hr/>
 
