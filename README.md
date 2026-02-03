@@ -83,6 +83,13 @@
 
 <hr/>
 
+**AI**
+
+- [(번역) AI 에이전트를 위한 좋은 스펙 작성법](https://ykss.netlify.app/translation/2026/how-to-write-a-good-spec-for-ai-agents)
+- [CLAUDE.md 완벽 가이드](https://velog.io/@surim014/claude-md-guide)
+
+<hr/>
+
 **다른 읽을 거리**
 
 - [묻기 위해 묻지 말고, 그냥 물어보세요](https://dontasktoask.com/ko/)
@@ -100,6 +107,7 @@
 - [Webpack Module Federation 도입 전에 알아야 할 것들](https://fe-developers.kakaoent.com/2022/220623-webpack-module-federation/)
 - [프론트엔드 성능 체크리스트](https://github.com/parksb/Front-End-Performance-Checklist)
 - [Docker로 Let's Encrypt 인증서 발급하기 (도메인 발급 없이)](https://velog.io/@jungsangu/Docker%EB%A1%9C-Lets-Encrypt-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EB%B0%9C%EA%B8%89%ED%95%98%EA%B8%B0-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%B0%9C%EA%B8%89-%EC%97%86%EC%9D%B4)
+- [Front-end maximalism](https://www.natemeyvis.com/front-end-maximalism/)
 
 <hr/>
 
